@@ -1,4 +1,4 @@
-# Development Setup & Deployment
+# Setup & Deployment
 
 If you want to run and deploy it to a new server, follow these instructions.
 
