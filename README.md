@@ -1,6 +1,6 @@
 # VE6AO Station Booking Wiki
 
-Welcome to the official documentation for the VE6AO Station Booking & Monitoring System. This wiki is designed to be the comprehensive source of ifo for both club members using the system and developers maintaining the code.
+Welcome to the official documentation for the VE6AO Station Booking & Monitoring System. This github is designed to be the comprehensive source of ifo for both club members using the system and developers maintaining the code.
 
 ##  User Documentation
 *   [**Member User Guide**](./docs/USER_GUIDE.md) - How to register, log in, book stations, and use the Kiosk.
