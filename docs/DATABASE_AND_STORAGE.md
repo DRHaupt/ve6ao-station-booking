@@ -44,11 +44,6 @@ This function takes a JavaScript object, converts it to a pretty-printed JSON st
 
 ---
 
-## Atomic Writes & Corruption Prevention
-
-To prevent data loss if the server crashes during a write, consider these upgrades in the future:
-1.  **Backups**: Periodically copy the `/data` folder to a separate location.
-2.  **Journaling**: Write to a temporary file first (`data.json.tmp`) and then rename it to the final file name.
 
 ## Data Inspection
 Since the files are plain text, you can open them in any code editor to manually fix a entry or verify its content. **Warning**: Always stop the server before manually editing JSON files to avoid conflicts.
