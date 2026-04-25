@@ -1,4 +1,4 @@
-# VE6AO Station Booking Wiki
+# VE6AO Station Booking Repo
 
 Welcome to the official documentation for the VE6AO Station Booking & Monitoring System. This GitHub is designed to be the comprehensive source of info for both club members using the system and developers maintaining the code.
 
