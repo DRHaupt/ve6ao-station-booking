@@ -22,8 +22,7 @@ Learn how the system works under the hood, how to set up your environment, and h
 *   [**Mobile, PWA & Capacitor**](./docs/MOBILE_AND_PWA.md) - Instructions for building the Android/iOS apps and managing the PWA.
 
 ### Setup & Deployment
-*   [**Development Setup**](./docs/DEVELOPMENT_SETUP.md) - Getting the project running on your local machine.
-*   [**Deployment Guide**](./docs/DEPLOYMENT_GUIDE.md) - Instructions for hosting the system on a VPS or cloud provider.
+*   [**Development Setup**](./docs/DEVELOPMENT_SETUP.md) - Getting the project running on your local machine or on a VPS or cloud provider.
 
 ---
 
