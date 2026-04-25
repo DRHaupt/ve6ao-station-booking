@@ -28,7 +28,7 @@ As an Admin, you can manually override the status of any station.
 If equipment is broken:
 1.  Go to the **Station Management** section of the admin page.
 2.  Toggle the station to **Maintenance**.
-3.  This will immediately turn the station indicator **Red** on the dashboard and prevent new bookings from being created for that station.
+3.  This will immediately turn the station indicator **Orange** on the dashboard and prevent new bookings from being created for that station.
 
 ### Operational Mode
 Once the station is fixed:
