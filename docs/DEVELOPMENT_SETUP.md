@@ -12,8 +12,8 @@ If you want to run and deploy it to a new server, follow these instructions.
 ### 2. Installation
 ```bash
 # Clone the repository
-git clone <your-repo-url>
-cd stationbookingapp
+git clone https://github.com/DRHaupt/ve6ao-station-booking
+cd ve6ao-station-booking
 
 # Install dependencies
 npm install
