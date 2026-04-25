@@ -57,10 +57,10 @@ If you have a weekly net or schedule:
 
 ---
 
-## 4. Kiosk Mode (In-Person Usage)
+## 4. Kiosk Mode (In-Person Usage) *in development
 
 When you arrive at the radio room:
-1. Use the **Check In/Out** screen (usually displayed on the tablet in the shack).
+1. Use the **Check In/Out** screen (proposed to be mounted to the wall in the shack).
 2. Enter your **4-digit Kiosk PIN**.
 3. Select the station you are using.
 4. **Check Out**: When finished, enter your PIN again and click **Check Out** to free up the station for the next user.
