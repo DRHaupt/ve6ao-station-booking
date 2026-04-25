@@ -53,7 +53,7 @@ The app will be available at `http://localhost:3000`.
 The app is compatible with containerized environments.
 1.  Build the image using the provided `Dockerfile`.
 2.  Deploy to Google Cloud Run or AWS Fargate.
-3.  Ensure your `/data` folder is mounted as a **Persistent Volume**. If using a stateless environment (like basic Cloud Run), the JSON files will be lost on每一次 restart unless you use a bucket or database service.
+3.  Ensure your `/data` folder is mounted as a **Persistent Volume**. If using a stateless environment (like basic Cloud Run), the JSON files will be lost on restart unless you use a bucket or database service.
 
 ---
 
